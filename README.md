@@ -1,4 +1,3 @@
-# Zero-Day-Attack-Detection
 ## Zero-Day attack detection using Machine Learning.
 
 Zero-day attacks exploit unknown vulnerabilities so as to avoid being detected by cybersecurity detection
